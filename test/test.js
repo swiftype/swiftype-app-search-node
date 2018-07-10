@@ -41,7 +41,7 @@ describe('SwiftypeAppSearchClient', () => {
       swiftype.indexDocuments(engineName, documents)
       .then((results) => {
         assert.deepEqual([
-          { "errors": [], "id": "INscMGmhmX4" },
+          { "errors": [], "id": "INscMGmmX4" },
           { "errors": [], "id": "JNDFojsd02" }
         ], results)
         done()
