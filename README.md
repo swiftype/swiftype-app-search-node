@@ -1,5 +1,10 @@
 <p align="center"><img src="https://github.com/swiftype/swiftype-app-search-node/blob/master/logo-app-search.png?raw=true" alt="Elastic App Search Logo"></p>
 
+> **⚠️ This repository is deprecated ⚠️**
+>
+> **Please visit [https://github.com/elastic/app-search-node](https://github.com/elastic/app-search-node) for the up to date version. Thank you! - Elastic**
+
+
 <p align="center"><a href="https://circleci.com/gh/swiftype/swiftype-app-search-node"><img src="https://circleci.com/gh/swiftype/swiftype-app-search-node.svg?style=svg" alt="CircleCI buidl"></a>
 <a href="https://github.com/swiftype/swiftype-app-search-node/releases"><img src="https://img.shields.io/github/release/swiftype/swiftype-app-search-node/all.svg?style=flat-square" alt="GitHub release" /></a></p>
 
